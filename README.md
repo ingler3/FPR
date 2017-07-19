@@ -1,4 +1,4 @@
-# PDX, City of Donuts
+# PDX, City of Pizza
 
 Who doesn't love a fresh donut? No-one I know.
 
