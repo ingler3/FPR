@@ -1,6 +1,6 @@
-# PDX, City of Pizza
+# PDX, City of ????
 
-Who doesn't love a fresh donut? No-one I know.
+Who doesn't love food? No-one I know.
 
 Here's [the easiest way to find 'em](https://ingler3.github.io/fpr).
 
