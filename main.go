@@ -17,7 +17,7 @@ var mapboxAccessToken = os.Getenv("MAPBOX_ACCESS_TOKEN")
 
 var (
 	optDest     = flag.String("dest", "dist", "Output directory")
-	optKeyword  = flag.String("keyword", "donut", "Keyword to search for")
+	optKeyword  = flag.String("keyword", "pizza", "Keyword to search for")
 	optType     = flag.String("type", "restaurant|bakery", "Types to search for (delimited|by|pipe")
 	optLocation = flag.String("location", "Portland, OR", "Location")
 )
