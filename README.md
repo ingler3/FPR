@@ -2,7 +2,7 @@
 
 Who doesn't love a fresh donut? No-one I know.
 
-Here's [the easiest way to find 'em](https://rjz.github.io/pdxdonuts).
+Here's [the easiest way to find 'em](https://github.com/ingler3/FPR).
 
 ## Testimonials
 
