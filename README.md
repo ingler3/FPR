@@ -4,11 +4,6 @@ Who doesn't love food? No-one I know.
 
 Here's [the easiest way to find 'em](https://ingler3.github.io/fpr).
 
-## Testimonials
-
-> This makes me want a donut right now.
->
-> -- @mikaelsnavy
 
 ## Install
 
